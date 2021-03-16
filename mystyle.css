@@ -64,13 +64,18 @@ nav .items .item {
 
 }
 
-nav .items .active,
+
 nav .items .item:hover {
 
     color: #ffffff;
     background-color: #8DB9BA;
     transition: all 0.3s ease;
 
+}
+
+nav .items .active {
+    
+    background: rgba(141, 185, 186, 0.3);
 }
 
 .item-link {
@@ -85,6 +90,7 @@ nav .items .item:hover {
     transition: all 0.3s ease;
 
 }
+
 
 .gallery {
 
