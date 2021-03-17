@@ -90,3 +90,56 @@ hr {
 
 
 /*---------Kristina---------*/
+
+.ktdiv {
+	margin-top: 20px;
+}
+
+.kttitle {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 620;
+    text-align: left;
+    color: #3d3d3d;
+    font-size: 40px;
+}
+
+.ktp {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: left;
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.ktfb {
+	height: 40%;
+	float: right;
+}
+
+.kttitle2 {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: left;
+    color: black;
+    margin-bottom: 2px;
+	padding-top: 150px;
+    font-size: 30px;
+}
+
+.ktex {
+	display: flex;
+    flex-direction: row;
+}
+
+.ktimg {
+	height: 350px;
+	align-items: center;
+	padding: 8px;
+}
+
+.ktimg3 {
+	height: 680px;
+	margin-left: 23rem;
+	margin-top: 3rem;
+}
